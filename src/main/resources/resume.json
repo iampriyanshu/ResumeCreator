@@ -1,0 +1,149 @@
+{
+  "name": "Priyanshu Thakuria",
+  "email": "priyanshuthakuria@gmail.com",
+  "phoneNumber": ["+91-8134960729"],
+  "overview": "Experienced in back-end server development using Java, Spring Boot, Spring Batch, Spring Data, Spring MVC, database development using MySQL.Working in the Banking and Capital Markets domain.Adaptable and a quick learner.A B.Tech graduate in Computer Science from Guwahati, Assam. Currently residing in Mumbai, India.",
+  "technicalSkills": {
+    "programmingLanguages": [
+      {
+        "name": "Java",
+        "proficiency": "Proficient"
+      },
+      {
+        "name": "Python",
+        "proficiency": "Familiar"
+      }
+    ],
+    "frameworks": [
+      "Spring Boot",
+      "Spring MVC",
+      "Spring Data",
+      "Spring Cloud"
+    ],
+    "databases": [
+      "MySQL",
+      "Oracle",
+      "Cassandra"
+    ],
+    "sourceControl": [
+      "Git"
+    ],
+    "others": [
+      "Apache Kafka",
+      "REST",
+      "Microservices",
+      "Maven"
+    ]
+  },
+  "workExperiences": [
+    {
+      "organization": "MPHASIS LTD.",
+      "startDate": "27-04-2017",
+      "endDate": null,
+      "role": "Senior Software Engineer",
+      "clients": [
+        {
+          "name": "JP Morgan & Chase",
+          "projects": [
+            {
+              "projectName": "CUBE",
+              "startDate": "February 2020",
+              "endDate": null,
+              "role": "Java Developer",
+              "location": "Mumbai",
+              "technologies": [
+                "Java",
+                "Spring Boot",
+                "Spring Data",
+                "Spring Cloud",
+                "REST APIs",
+                "JSON",
+                "Cassandra",
+                "Apache Kafka"
+              ],
+              "description": "The objective of this project is to develop Third Party Data services to enable credit calls for Card, Auto and Business Banking from target state system CUBE and transition current services off legacy system Bureau link. Third Party Bureau calls are made at time of acquisition for Credit approvals for Card, Auto and Business banking with various bureaus. Currently these calls are made from Bureau link which is a vendor software based mainframe product that needs to be divested. My responsibility is to design, develop, test and deploy new features and functionalities regarding the same.",
+              "teamSize": 7
+            },
+            {
+              "projectName": "Public Finance Tool",
+              "startDate": "April 2019",
+              "endDate": "January 2020",
+              "role": "Java Developer",
+              "location": "Mumbai",
+              "technologies": [
+                "Java",
+                "Spring MVC",
+                "REST APIs",
+                "JSON"
+              ],
+              "description": "This project is to migrate 2 client applications, LightHouse and Cricket, from Adobe Flex and ActionScript to React UI with Java as the back-end. My primary responsibility is to create REST services for the existing application which can then be consumed by the UI to display the data.",
+              "teamSize": 12
+            },
+            {
+              "projectName": "CIB Prime Brokerage",
+              "startDate": "January 2018",
+              "endDate": "March 2019",
+              "role": "Java Developer",
+              "location": "Mumbai",
+              "technologies": [
+                "Java",
+                "Spring Boot",
+                "Spring Batch",
+                "Spring MVC",
+                "REST APIs",
+                "JSON"
+              ],
+              "description": "This project is for recording and facilitating the Prime Brokerage services. It records the various borrowing and lending of securities that occurs in Prime Brokerage. We created different APIs which generated various reports which could be then used by the organization. ",
+              "teamSize": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "proofOfConcepts": [
+    "Created a Leave Management System using Java, Spring and Hibernate for company use that allows managers to approve or reject leave requests by employees through a single application, rather than through individual mails. The application also provided statistics of each employee’s leave application history and could export data in PDF or XLSX formats.",
+    "Created a Twitter Bot using Python which can retweet tweets containing certain keywords. This was a hobby project. Added multithreading support so that the application could retweet tweets containing different keywords after certain time interval."
+  ],
+  "educationDetails": [
+    {
+      "qualification": "B.Tech",
+      "institution": "School Of Technology",
+      "board": "Assam Don Bosco University",
+      "year": "2016",
+      "cgpaOrPercentage": "8.35"
+    },
+    {
+      "qualification": "XII",
+      "institution": "Shrimanta Shankar Academy",
+      "board": "Assam Higher Secondary Education Council",
+      "year": "2011",
+      "cgpaOrPercentage": "75.6"
+    },
+    {
+      "qualification": "X",
+      "institution": "Pragjyotish English Medium High School",
+      "board": "Secondary Education Board of Assam",
+      "year": "2009",
+      "cgpaOrPercentage": "72.33"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Full Professional Proficiency"
+    },
+    {
+      "name": "Assamese",
+      "proficiency": "Native Proficiency"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "Working Proficiency"
+    }
+  ],
+  "hobbies": [
+    "Gaming",
+    "Reading(Genres such as adventure, mystery, thriller)"
+  ]
+}
